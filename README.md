@@ -1,3 +1,13 @@
-# Churn Analytics - Notebooks, Dasbhboards, Articles
+# <center>Churn Analytics</center>
 
-A churn risk predictive model is develoeped based on the Broadband data set from 
+## Broadband Service Customer Churn Risk Predictive Model
+
+
+
+
+<figure>
+ <img alt="RFM Segmentation Dashboard" title="RFM Segmentation Dashboard" src="./images/broadband_customer_churn_risk.png" style="width:100%" >
+ <figcaption><center>Figure 1. Churn Risk (probability)</center></figcaption>
+ </figure>
+
+
