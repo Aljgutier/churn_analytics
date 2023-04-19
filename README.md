@@ -6,7 +6,7 @@
 * Feature analysis and Feature Engineering including the use of histplots, correlations, and barplots. 
 * Variable Deskew, Standardization, oversampling with SMOTE due to the (imbalanced dataset), and feature importance
 * ML Training with evaluation of 3 models - RF, XGB and lightGBM. The final model chosen is lightGBM due to its excellent predictive performance and superior computational performance.
-* Excellent predicitive performance is obtained and is exemplified with an AUC score of 91.7%. Without the use of SMOTE the AUC obtained was at about 75%. 
+* Excellent predicitive performance is obtained and is exemplified with an AUC score of 91.7%. Without the use of SMOTE the AUC obtained was at about 75%. Recall and Selectivigy are as follows: sensitivity_recall_tpr = 0.854, specicifity_selectivity_tnr = 0.98
 * Churn probabilities are predicted for the last month of service corresponding to the year 2022, month 6.
 
 
@@ -15,4 +15,9 @@
  <figcaption><center>Figure 1. Churn Risk (probability)</center></figcaption>
  </figure>
 
+
+<figure>
+ <img alt="ROC Curve" title=ROC Curve" src="./images/broadband_churn_prediction_roc_curve.png" style="width:100%" >
+ <figcaption><center>Figure 2. Broadband Churn Prediction ROC Curve</center></figcaption>
+ </figure>
 
