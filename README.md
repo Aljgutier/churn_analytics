@@ -21,3 +21,7 @@
  <figcaption><center>Figure 2. Broadband Churn Prediction ROC Curve</center></figcaption>
  </figure>
 
+# Broadband Service Churn BI
+
+* Data - the data source is the same as for the above notebook. Two tables are are input to Big Query (Broandband Service Churn and Broadband Service Churn Prediction) and a single view is created for use by the dashboard. 
+* 
