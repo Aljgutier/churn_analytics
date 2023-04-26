@@ -30,7 +30,9 @@ The dashboard includes churn KPIs such as churn rate, net add rate, revenue chur
 
 Cross-filtering enables the user to click on a bar, for example, customers with phone service, and see the projected revenue churn corresponding to customers with this feature. Additionally, the detailed table listing is filtered to show the corresponding accounts.
 
-The data source is the same as for the above notebook. The corresponding input data is loaded to Big Query. The Looker Studio BI dashboard issues direct queries to Big Query and renders the BI visualizations.
+The data source is the same as for the above notebook (Broadband Service Churn). The data is processed by the notebook and the corresponding notebook output data is loaded to Big Query. The Looker Studio BI dashboard issues direct queries to Big Query and renders the BI visualizations.
+
+The live dashboard is found here, [Broadband Service Churn BI Dashboard](https://lookerstudio.google.com/reporting/d6353c22-f8a5-474e-8887-69ba09b5691e/page/ejoND). A screenshot of the dashboard is shown below.
 
 
 <figure>
